@@ -5,15 +5,15 @@
 <h1 align="center">Hey there! I'm Dhruv Donga 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=b0b29d&center=true&vCenter=true&width=500&lines=M.S.+in+CS+@+UT+Dallas;Software+Developer+%26+Data+Scienctist;Learning+Generative+AI;Curious+Mind+%7C+Witty+%7C+Problem+Solver" alt="Typing Effect Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=b0b29d&center=true&vCenter=true&width=500&lines=M.S.+in+CS+@+UT+Arlington;Software+Developer+%26+Data+Scienctist;Learning+Generative+AI;Curious+Mind+%7C+Witty+%7C+Problem+Solver" alt="Typing Effect Intro" />
 </p>
 
 ### 🚀 About Me
 
 I’m a curious, slightly witty problem-solver who loves building things that actually help people.  
-Currently pursuing my **M.S. in Computer Science at the University of Texas at Dallas**, I spend most of my time in **software development** and tinkering with **data science**. Lately, I’ve been learning **Generative AI** the way I like best **by shipping projects**.
+Currently pursuing my **M.S. in Computer Science at the University of Texas at Arlington**, I spend most of my time in **software development** and tinkering with **data science**. Lately, I’ve been learning **Generative AI** the way I like best **by shipping projects**.
 
-📍 **Location:** Dallas, TX, USA 
+📍 **Location:** Arlington, TX, USA 
 🍜 **Foodie | Traveler | Adventurer:** If there’s good food or a new trail, I’m in.  
 ⚡ **Quick learner:** New stack? New tool? Hand me the docs, I’ll ship by evening.
 
